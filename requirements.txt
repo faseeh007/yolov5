@@ -93,7 +93,6 @@ protobuf==3.19.1
 pyarrow==6.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/Faseeh/Downloads/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
 pycparser==2.21
 pydeck==0.7.1
 pyee==8.2.2
